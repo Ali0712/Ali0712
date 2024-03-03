@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">Computer System Engineer NED'25 | FrontEnd Developer</h3>
+<h3 align="center">Computer System Engineer NED'25 | Full Stack Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali0712" alt="ali0712" /></a> </p>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently exploring **Backend technologies**
 
 - 👯 I’m looking to collaborate on **Web projects**
 
-- 💬 Ask me about **frontend, python and problem solving**
+- 💬 Ask me about **backend, python and problem solving**
 
 - 📫 How to reach me **muhammadali07122@gmail.com**
 
