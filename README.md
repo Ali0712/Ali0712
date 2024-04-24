@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently exploring backend technologies and IOT.<br>💬 Ask me about backend, python and problem solving.<br>📫 How to reach me muhammadali07122@gmail.com</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently exploring full stack technologies .<br>💬 Ask me about backend, python and problem solving.<br>📫 How to reach me muhammadali07122@gmail.com</p>
 
 ###
 
